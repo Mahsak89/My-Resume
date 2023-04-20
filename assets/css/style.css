@@ -128,6 +128,9 @@ body {
 .ps-progress{
     width: 90%;
 }
+.ph-progress{
+    width: 35%;
+}
 .g-progress{
     width: 85%;
 }
@@ -138,7 +141,7 @@ body {
     width: 63%;
 }
 .w-progress, .s-progress{
-    width: 78%;
+    width: 30%;
 }
 
 
